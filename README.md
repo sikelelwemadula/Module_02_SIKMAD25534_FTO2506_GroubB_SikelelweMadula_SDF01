@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Project - Make Me A Developer 🚀
 
 # 👋 Hi, I'm Sikelelwe
 
